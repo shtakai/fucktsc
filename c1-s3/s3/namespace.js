@@ -1,4 +1,3 @@
-"use strict";
 var AdvertisementLogger;
 (function (AdvertisementLogger) {
     function log(parameters) {
